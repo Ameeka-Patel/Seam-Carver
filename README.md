@@ -45,6 +45,6 @@ The 'importance' of each pixel is determined by a formula that essentially calcu
 
 
   Watch the demo, which includes timestamps outlining the features being shown! <br>
-  Click [here] (https://www.youtube.com/watch?v=DgdfHFr-LkQ)
+  Click [here](https://www.youtube.com/watch?v=DgdfHFr-LkQ)
 
   
