@@ -10,7 +10,7 @@ Here's how the program works:
 The 'importance' of each pixel is determined by a formula that essentially calculates how much the current pixel (**e**, in this case) differs from its horizontal and vertical neighbors. 
 ```
   a b c
-  d **e** f
+  d e f
   g h i
 ```
 
