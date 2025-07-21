@@ -44,7 +44,7 @@ The 'importance' of each pixel is determined by a formula that essentially calcu
   - "u" : reinserts removed seams into the photo, undoing the seam carving 
 
 
-  Watch the demo, which includes timestamps outlining the features being shown! <br>
+  Watch the demo, which includes timestamps outlining the features being shown! 
   Click [here](https://www.youtube.com/watch?v=DgdfHFr-LkQ)
 
   
